@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Mincho-Regular;
+    src: url(.\fonts\BIZUDMincho-Regular.ttf);
+}
+@font-face {
+    font-family: Yours-Regular;
+    src: url(.\fonts\LavishlyYours-Regular.ttf);
+}
+@font-face {
+    font-family: Lobster-Regular;
+    src: url(.\fonts\Lobster-Regular.ttf);
+}
+h1 {font-family: Mincho-Regular; color: brown; font-size: 63px; }
+h2 {font-family: Yours-Regular; color: whitesmoke;}
+ol {background-color: red;}
+body {font-family: Lobster-Regular;}
